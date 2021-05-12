@@ -5,7 +5,7 @@ I mostly self-taught myself all of these (wow), so as much as I would flex these
 1. "Basic" Motion Design (2018-Present)
 2. Graphic Design (2019-Present)
 3. Coding (duh, 2017-Present)
-Languages that I know: HTML/CSS, JavaScript, Java, C#, (very little) C++, Python, and Lua
+<br>Languages that I know: HTML/CSS, JavaScript, Java, C#, (very little) C++, Python, and Lua
 - HTML/CSS/JavaScript - Basic frontend and backend development knowledge (aka full-stack)
 - Java/C#/C++ - Intermediate understanding and (some) knowledge of desktop application development.
 - Python/Lua - Quick scripting / easy language knowledge. 
