@@ -26,3 +26,6 @@ Yep! You can find them here:
 
 ## Profile Statistics
 [![Zeko's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ZekoTheFox)](https://github.com/anuraghazra/github-readme-stats)
+
+## What am I currently doing on Discord?
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/269609480243773440)](https://discord.com/users/269609480243773440)
