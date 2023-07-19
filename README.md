@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/ZekoTheFox/ZekoTheFox/assets/41507889/f8aa2d97-b342-4329-9842-cb79806c5f81" alt="this flag is trans">
+  <h3>[ hey, i'm zeko ]</h2>
+  <img src="https://github.com/ZekoTheFox/ZekoTheFox/assets/41507889/f8aa2d97-b342-4329-9842-cb79806c5f81" alt="oh wait i meant i'm trans">
+</div>
 
-<!--
-**ZekoTheFox/ZekoTheFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br><br>
 
-Here are some ideas to get you started:
+**supremely lazy js dev**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## heres a funny placeholder image
+
+![cool photo](https://github.com/ZekoTheFox/ZekoTheFox/assets/41507889/2b226d8e-89ac-442d-8172-ad1779835319)
